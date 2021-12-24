@@ -1,7 +1,5 @@
 ### Hi there! 👋 I'm Igor.
 
-
-
 🔍 &nbsp;**About me**
 
 - 📖 Computer Science student at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
@@ -41,6 +39,12 @@
 </details>
 
 📈 &nbsp;**Github stats**
+<p>
 
-[![Cicheck's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicheck&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicheck&show_icons=true&exclude_repo=mnist-playground,find-the-nose&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+|Statistics             |Languages              |
+|:---------------------:|:---------------------:|
+|![stats][stats]        |![languages][languages]|
+
+[stats]: https://github-readme-stats.vercel.app/api?username=cicheck&show_icons=true&count_private=true&custom_title=Cicheck's%20Github%20Stats&theme=radical
+
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=cicheck&show_icons=true&exclude_repo=mnist-playground,find-the-nose&theme=radical
