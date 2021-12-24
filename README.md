@@ -43,4 +43,4 @@
 📈 &nbsp;**Github stats**
 
 [![Cicheck's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicheck&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicheck&show_icons=true&exclude_repo=mnist-playground&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicheck&show_icons=true&exclude_repo=mnist-playground,find-the-nose&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
