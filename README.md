@@ -3,8 +3,7 @@
 🔍 &nbsp;**About me**
 
 - 📖 Computer Science student at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
-- 🖥️ Software developer at [NOKIA](https://www.nokia.com/).
-- 🤖 Data science enthusiast.
+- 🖥️ Machine Learning Engineer at [DataWalk](https://datawalk.com/).
 
 🔗 &nbsp;**Connect with me**
 <p>
