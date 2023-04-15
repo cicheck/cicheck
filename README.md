@@ -2,7 +2,7 @@
 
 🔍 &nbsp;**About me**
 
-- 📖 Computer Science student at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
+- 🤖 Artificial Intelligence student at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/).
 - 🖥️ Machine Learning Engineer at [DataWalk](https://datawalk.com/).
 
 🔗 &nbsp;**Connect with me**
